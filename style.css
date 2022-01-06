@@ -1,0 +1,41 @@
+body{
+    font-family: 'Fredoka One', cursive;
+}
+.first-section{
+    display: flex;
+}
+
+.color{
+    color: orangered;
+}
+.first-secimg img {
+    width: 400px;
+    height: 400px;
+    margin-right: 150px;
+    margin-left: 50px;
+    margin-top: 100px;
+    padding: 10px;
+}
+.marginleft{
+    margin-left: 50px;
+    margin-top: 100px;
+    padding: 10px;
+}
+.button {
+    text-decoration: none;
+    background-image: linear-gradient( orange, orangered);
+    padding: 5px 15px;
+    color: black;
+    border-radius: 5px;
+    font-weight: 500px;
+}
+.line {
+    border-left: 7px solid;
+    border-image: linear-gradient(orange, tomato);
+    border-image: slice 1;
+
+}
+.mission{
+    color: coral;
+
+}
